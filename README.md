@@ -1,5 +1,5 @@
 # McKinseyOnlineHackathon-Healthcare-
-Here, the original problem statement is copied from "https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon/":
+Here, the original problem statement is copied from "ttps://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon/":
 
 "In this case, your client wants to have study around one of the critical disease "Stroke". Stroke is a disease that affects the arteries leading to and within the brain. A stroke occurs when a blood vessel that carries oxygen and nutrients to the brain is either blocked by a clot or bursts (or ruptures). When that happens, part of the brain cannot get the blood (and oxygen) it needs, so it and brain cells die.
 
