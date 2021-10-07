@@ -13,5 +13,6 @@ We are provided with:
 - test dataset (Submit predictions for the records in test dataset)
 
 - sample submission (CSV Format for making a submission at the platform)
+
 The objective is to try and make the best model using train data, make predictions for the test set, and submit in the CSV format for sample submission using AUC ROC score as a criterion of the evaluation metric for predictability.
 
